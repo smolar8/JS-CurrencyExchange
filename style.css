@@ -1,0 +1,41 @@
+.logo {
+  display: flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.currency-converter {
+  background-color: yellow;
+  border: double 10px;
+  text-align: center;
+  margin-left: 40px;
+  padding: 37px;
+  font-size: 24px;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.finish {
+  font-size: 38px;
+  display: flex;
+  justify-content: center;
+  text-align: left;
+}
+
+.hr {
+  color: blue;
+  width: 35%;
+}
+#form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 5px;
+}
